@@ -1,0 +1,21 @@
+.error{
+    color: red;
+}
+
+.container{
+    padding: 50px 0;
+}
+
+.box{
+    background: #F4E0AF;
+    padding: 50px 100px;
+}
+
+h2{
+    text-align: center;
+}
+
+.updateBtn{
+    display: none;
+}
+
